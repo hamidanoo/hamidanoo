@@ -8,24 +8,8 @@
 
 ---
 
-## 🛠 Skills & Expertise
-- 🖥 Bash Scripting & CLI Tools
-- 🤖 API Sniffing & Integration (OTP systems)
-- 🧠 Learning Python & Automation
-- 📡 WhatsApp Bomber & Bot Development
-- 📝 GitHub Repo Forking & Customization
 
----
-
-## 🔍 Current Focus
-- Enhancing *terminal-based hackers tools*
-- Reverse-engineering *OTP APIs ethically*
-- Building *WhatsApp bots* with custom commands  
-- Automating tasks with Bash + Python
-
----
-
-## 🧩 Profile Metrics
+##  Profile Status
 
 <p align="center">
   <a href="https://github.com/hamidshah">
@@ -36,13 +20,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidshah&theme=radical" alt="Streak">
 </p>
 
----
-
-## ⚡ Quick Start
-
-```bash
-# Clone your hacker tools
-git clone https://github.com/hamidshah/your-tool-repo
-cd your-tool-repo
-bash install.sh
-bash start.sh
