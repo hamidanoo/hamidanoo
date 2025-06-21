@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">👽 Hamid Shah — Terminal Ka Hacker 💻</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&width=600&lines=Booting+up...;Loading+scripts...;Touching+the+matrix..." />
+</p>
 
-<!--
-**hamidanoo/hamidanoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Skills & Expertise
+- 🖥 Bash Scripting & CLI Tools
+- 🤖 API Sniffing & Integration (OTP systems)
+- 🧠 Learning Python & Automation
+- 📡 WhatsApp Bomber & Bot Development
+- 📝 GitHub Repo Forking & Customization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Current Focus
+- Enhancing *terminal-based hackers tools*
+- Reverse-engineering *OTP APIs ethically*
+- Building *WhatsApp bots* with custom commands  
+- Automating tasks with Bash + Python
+
+---
+
+## 🧩 Profile Metrics
+
+<p align="center">
+  <a href="https://github.com/hamidshah">
+    <img src="https://github-readme-stats.vercel.app/api?username=hamidshah&show_icons=true&theme=radical" alt="GitHub Stats">
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidshah&theme=radical" alt="Streak">
+</p>
+
+---
+
+## ⚡ Quick Start
+
+```bash
+# Clone your hacker tools
+git clone https://github.com/hamidshah/your-tool-repo
+cd your-tool-repo
+bash install.sh
+bash start.sh
