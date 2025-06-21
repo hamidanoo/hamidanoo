@@ -9,7 +9,7 @@
 ---
 
 
-##  ● Profile Status
+##  ● Profile Stats
 
 <p align="center">
   <a href="https://github.com/hamidanoo">
