@@ -1,4 +1,4 @@
-<h1 Hey, Programmer </h1>
+## Hey, Programmer
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&width=600&lines=Booting+up...;Loading+scripts...;Touching+the+matrix..." />
 </p>
