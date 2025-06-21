@@ -13,12 +13,12 @@
 
 <p align="center">
   <a href="https://github.com/hamidanoo">
-    <img src="https://github-readme-stats.vercel.app/api?username=HamidShah&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=HamidShah&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidshah&theme=radical" alt="Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidshah&theme=radical" alt="Streak" width="450"/>
 </p>
 
 ---
