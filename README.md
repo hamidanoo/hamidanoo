@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Terminal Animation" width="830"/>
 </p>
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF0000&width=600&lines=This+is+the+Hamid+Shah;Loading+It's+Not+Just+a+Name+Bro;It's+a+Brand" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF0000&width=600&lines=This+is+the+Hamid+Shah;It's+Not+Just+a+Name+Bro;It's+a+Brand" />
 </p>
 
 ---
