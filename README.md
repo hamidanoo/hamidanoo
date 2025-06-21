@@ -1,5 +1,8 @@
 ## Hey, Programmer
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Terminal Animation" width="400"/>
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&width=600&lines=Booting+up...;Loading+scripts...;Touching+the+matrix..." />
 </p>
 
