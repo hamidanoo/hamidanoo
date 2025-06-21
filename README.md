@@ -49,3 +49,12 @@
     <img height="40" width="140" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
+
+
+## Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidanoo&layout=compact&theme=radical" alt="Top Languages" width="435"/>
+</p>
