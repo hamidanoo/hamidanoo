@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/hamidshah">
-    <img src="https://github-readme-stats.vercel.app/api?username=hamidshah&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hamid+Shah&show_icons=true&theme=radical" alt="GitHub Stats">
   </a>
 </p>
 <p align="center">
