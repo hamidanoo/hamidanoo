@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/hamidanoo">
-    <img src="https://github-readme-stats.vercel.app/api?username=HamidShah&show_icons=true&theme=radical" alt="GitHub Stats" width="435"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=hamidanoo&show_icons=true&theme=radical&custom_title=Hamid%20Shah" alt="GitHub Stats" width="435"/>
   </a>
 </p>
 
