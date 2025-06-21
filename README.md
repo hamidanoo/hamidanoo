@@ -26,18 +26,12 @@
   <a href="https://github.com/hamidanoo">
     <img height="40" width="140" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/yourchannel">
-    <img height="40" width="140" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
   <a href="https://tiktok.com/@hamidanoo_56">
     <img height="40" width="140" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/yourusername">
-    <img height="40" width="140" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://facebook.com/hamidanoo56">
     <img height="40" width="140" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
