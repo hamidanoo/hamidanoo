@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidanoo&theme=radical" alt="Streak" width="435"/>
+  <img src="https://streak-stats.demolab.com/?user=hamidanoo&theme=radical" alt="Streak" width="435"/>
 </p>
 
 ---
