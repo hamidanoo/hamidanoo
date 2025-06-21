@@ -16,9 +16,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hamidanoo&show_icons=true&theme=radical&custom_title=Hamid%20Shah%20GitHub%20Stats" alt="GitHub Stats" width="435"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hamidanoo&theme=radical" alt="Contribution Graph" width="435"/>
-</p>
 
 ---
 
