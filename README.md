@@ -26,7 +26,7 @@
   <a href="https://github.com/hamidanoo">
     <img height="40" width="140" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://tiktok.com/@hamidanoo_56">
+  <a href="https://tiktok.com/@hamidanoo56">
     <img height="40" width="140" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
