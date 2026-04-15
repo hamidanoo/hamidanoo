@@ -46,5 +46,5 @@
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidanoo&layout=compact&theme=radical" alt="Top Languages" width="435"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidanoo&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" width="435"/>
 </p>
