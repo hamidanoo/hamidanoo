@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/hamidanoo">
-    <img src="https://github-readme-stats.vercel.app/api?username=hamidanoo&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" width="435"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=hamidanoo&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -46,5 +46,5 @@
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidanoo&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" width="435"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidanoo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
