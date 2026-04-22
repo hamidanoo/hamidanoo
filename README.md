@@ -45,5 +45,8 @@
 
 ## Top Languages
 
+## Languages & Activity
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamidanoo&theme=github_dark&v=5)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidanoo&layout=compact&theme=github_dark&hide_border=true" />
+</p>
