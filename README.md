@@ -45,6 +45,4 @@
 
 ## Top Languages
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamidanoo&theme=github_dark&v=6" />
-</p>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamidanoo&theme=github_dark&v=6)
