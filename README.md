@@ -21,10 +21,10 @@
 ## Know More About Me
 
 <p align="center">
-  <a href="https://github.com/hamidanoo"><img height="35" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://tiktok.com/@hamidanoo56"><img height="35" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="https://facebook.com/hamidanoo56"><img height="35" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hamid-hussain-035639393"><img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/hamidanoo"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&scale=2"/></a>
+  <a href="https://tiktok.com/@hamidanoo56"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
+  <a href="https://facebook.com/hamidanoo56"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hamid-hussain-035639393"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
