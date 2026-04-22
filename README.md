@@ -8,8 +8,7 @@
 
 ---
 
-
-##  Profile Stats
+## Profile Stats
 
 <p align="center">
   <a href="https://github.com/hamidanoo">
@@ -19,30 +18,30 @@
 
 ---
 
-
 ## Know More About Me
 
 <p align="center">
-<a href="https://github.com/hamidanoo">
-  <img style="height:40px; min-width:140px;" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://tiktok.com/@hamidanoo56">
-  <img style="height:40px; min-width:140px;" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-<a href="https://facebook.com/hamidanoo56">
-  <img style="height:40px; min-width:140px;" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hamid-hussain-035639393?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img style="height:40px; min-width:140px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://github.com/hamidanoo">
+    <img height="40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://tiktok.com/@hamidanoo56">
+    <img height="40" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/hamidanoo56">
+    <img height="40" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hamid-hussain-035639393">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-
 ## Top Languages
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamidanoo&theme=github_dark&v=6)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidanoo&layout=compact&theme=github_dark&langs_count=8" />
+</p>
